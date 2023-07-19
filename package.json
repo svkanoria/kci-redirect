@@ -1,0 +1,11 @@
+{
+  "name": "kci-redirect",
+  "version": "1.0.0",
+  "description": "A small app to redirect kanorichem.com to www.kanoriachem.com.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Saumya Vardhan Kanoria",
+  "license": "ISC"
+}
